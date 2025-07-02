@@ -1,0 +1,14 @@
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker.deps.json
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker.runtimeconfig.json
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker.dll
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/bin/Debug/net9.0/ExpenseTracker.pdb
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.AssemblyInfoInputs.cache
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.AssemblyInfo.cs
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.csproj.CoreCompileInputs.cache
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.dll
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/refint/ExpenseTracker.dll
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.pdb
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/ExpenseTracker.genruntimeconfig.cache
+/Users/amirhon/RoadMapProjects/ExpenseTracker/ExpenseTracker/obj/Debug/net9.0/ref/ExpenseTracker.dll
